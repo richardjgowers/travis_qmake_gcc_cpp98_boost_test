@@ -3,4 +3,6 @@
 
 int add(const int i, const int j);
 
+int multiply(const int i, const int j);
+
 #endif // MY_FUNCTIONS_H
